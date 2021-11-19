@@ -14,7 +14,7 @@ jobs:
         id: hello
         with:
           who-to-greet: 'c.tada'
-          who-to-greet: 'tada c'
+          who-to-greet2: 'tada c'
 
       # 「hello」ステップの出力を使用する
       - name: Get the output time
